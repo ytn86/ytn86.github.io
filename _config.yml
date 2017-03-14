@@ -1,8 +1,9 @@
-title: 'Hi, there'
-desciption: 'About @ytn86'
-author: 'Yutaka WATANABE'
-author_email: 'contact@ytn86.net'
+title: "Hi, there"
+desciption: "About @ytn86"
+author: "Yutaka WATANABE"
+author_email: "contact@ytn86.net"
 
-exclude:
-	- Gemfile
-	- Gemfile.lock
+timezone: Asia/Tokyo
+
+exclude: [Gemfile, Gemfile.lock]
+
