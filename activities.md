@@ -19,7 +19,7 @@ title: activities
   * as a member of wasamusume
 
 * [CTF for Beginners](http://2016.seccon.jp/about/beginners.html)
-  * Operation Menber (from March, 2017)
+  * Operation Member (from March, 2017)
 
 ### [Security Camp](http://www.security-camp.org/)
 
