@@ -10,7 +10,7 @@ title: about
   * Yutaka WATANABE a.k.a ゆったん
 * Affiliation
   * [College of Information Science](https://www.coins.tsukuba.ac.jp/en/), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
-    * 3rd grade
+    * 4th grade
 	* [High Performance Computing System labs](https://www.hpcs.cs.tsukuba.ac.jp/)
 
   * [Gehirn Inc](https://www.gehirn.co.jp/)
