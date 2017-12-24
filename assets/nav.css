@@ -28,6 +28,6 @@ ul.navbar li a.active {
 }
 
 ul.navbar li a:hover:not(.active) {
-	background-color: #00ff7f;
+	background-color: #ffffff;
 	color: while;
 }
