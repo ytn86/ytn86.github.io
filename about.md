@@ -8,6 +8,8 @@ title: about
 ### Information
 * Name
   * Yutaka WATANABE a.k.a ゆったん
+* Addres
+  * Tsukuba, Ibaraki, Japan
 * Affiliation
   * [College of Information Science](https://www.coins.tsukuba.ac.jp/en/), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
     * 4th grade
@@ -16,6 +18,7 @@ title: about
   * [Gehirn Inc](https://www.gehirn.co.jp/)
     * As a part-time job
 	* Vulnerability Assesment
+
 
 
 ### Community
@@ -41,3 +44,12 @@ title: about
 * OpenMP
 * OpenMPI
 
+
+I am interested in part-time job or intern related to:
+* Hi-Performance Computing
+  * Hi Level Synthesis
+  * Distributed, Parallel Computing
+* Web Application Development
+  * Backend
+* Information Security
+ 
