@@ -31,14 +31,13 @@ title: about
 
 ### Loves
 
-#### Programing Languages
+#### Programing Languages / Frameworks
 
 * C
 * Python
-* Assembly
-* Go (Recently)
+* x86/64 Assembly
+* Go
+* OpenCL
+* OpenMP
+* OpenMPI
 
-#### CTF Genres
-
-* Web
-* Pwn
