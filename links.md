@@ -10,7 +10,7 @@ title: links
 
 * [twitter@ytn86](https://twitter.com/ytn86)
 * [Facebook@ytn1995](https://facebook.com/ytn1995)
-
+* [Linkedin@ytn86](https://www.linkedin.com/in/ytn86/)
 
 ### Blog
 
