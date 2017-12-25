@@ -17,7 +17,6 @@ title: about
 
   * [Gehirn Inc](https://www.gehirn.co.jp/)
     * As a part-time job
-	* Vulnerability Assesment
 
 
 
