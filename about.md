@@ -8,7 +8,7 @@ title: about
 ### Information
 * Name
   * Yutaka WATANABE a.k.a ゆったん
-* Addres
+* Address
   * Tsukuba, Ibaraki, Japan
 * Affiliation
   * [College of Information Science](https://www.coins.tsukuba.ac.jp/en/), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
