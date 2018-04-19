@@ -61,10 +61,17 @@ title: activities
 
 ### 2017
 
+
 * [CTF for Beginners](http://2017.seccon.jp/about/beginners.html)
   * Operation Member
-  
+
+* [SANS Netwars Tournament](https://www.nri-secure.co.jp/event/2017/netwars.html)
+  * 3rd place
+
+* [SuperComputing17](https://sc17.supercomputing.org) at Denver,CO
+  * Student Volunteer
+
 * [Cybozu BugBounty Contest](https://topics.cybozu.co.jp/news/2017/11/06-4448.html)
-  * won PSIRT award by finding most effectable vulnerability in the contest
+  * won PSIRT award for finding most effectable vulnerability in the contest
 
 

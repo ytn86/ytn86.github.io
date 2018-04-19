@@ -10,14 +10,20 @@ title: about
   * Yutaka WATANABE a.k.a ゆったん
 * Address
   * Tsukuba, Ibaraki, Japan
-* Affiliation
-  * [College of Information Science](https://www.coins.tsukuba.ac.jp/en/), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
-    * 4th grade
-	* [High Performance Computing System labs](https://www.hpcs.cs.tsukuba.ac.jp/)
 
-  * [Gehirn Inc](https://www.gehirn.co.jp/)
-    * As a part-time job
+### Educations
+#### April 2018 -
+[Gradute School of Systems and Information Science](https://www.sie.tsukuba.ac.jp/english), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
+* Major : Computer Science
+* PA team, [High Performance Computing System labs](https://www.hpcs.cs.tsukuba.ac.jp/)
+  * keywords : OpenMP, Accerelators
 
+#### April 2014 - March 2018
+[College of Information Science](https://www.coins.tsukuba.ac.jp/en/), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
+* Major : Computer Systems
+* GPA : 3.45
+* Network team, [High Performance Computing System labs](https://www.hpcs.cs.tsukuba.ac.jp/)
+  * keywords : OpenMP, Accerelators
 
 
 ### Community
