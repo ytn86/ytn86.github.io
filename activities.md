@@ -5,14 +5,6 @@ title: activities
 
 # % ps
 
-## Internships
-
-
-### 2016
-
-* [Nomura Research Institue](https://www.nri.com/jp/) (Sep, 2016)
-  * Assigned to [NRI Secure technologies](https://www.nri-secure.co.jp/).
-
 ## Publishments
 
 ### 2017
