@@ -68,10 +68,10 @@ title: about
 
 
 I am interested in part-time job or intern related to:
-* Hi-Performance Computing
+* High-Performance Computing
   * High Level Synthesis
   * Distributed, Parallel Computing
 * Web Application Development
   * Backend
-* Information Security
+* Computer Security
  
