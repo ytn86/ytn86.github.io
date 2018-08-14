@@ -28,7 +28,7 @@ title: about
 ### Experience
 
 ### Aug 2018 - Present
-[Mercari Inc](https://mercari.com)
+[Mercari Inc](https://about.mercari.com/)
 * (Internship) Security Engineer
 
 
