@@ -25,4 +25,4 @@ title: links
 
 ### Contact
 
-* contact [at] ytn86.net
+* contact [at] ytn86.net (fingerprint: 4B4DD2B1E646186EE3A9423FFC17F68F6DFF73B1)
