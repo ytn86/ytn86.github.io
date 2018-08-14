@@ -27,6 +27,10 @@ title: about
 
 ### Experience
 
+### Aug 2018 - Present
+[Mercari Inc](https://mercari.com)
+* (Internship) Security Engineer
+
 
 #### May 2018 - Present
 [RIKEN](http://www.riken.jp/en/)
