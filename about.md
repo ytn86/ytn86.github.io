@@ -27,24 +27,22 @@ title: about
 
 ### Experience
 
-### Aug 2018
-[Mercari Inc](https://about.mercari.com/)
-* (Internship) Security Engineer
-
-
 #### May 2018 - Present
 [RIKEN](http://www.riken.jp/en/)
 * Student Trainee
 
+#### Jun 2014 - Present
+[Gehirn Inc.](https://www.gehirn.co.jp)
+
+### Aug 2018
+[Mercari Inc](https://about.mercari.com/)
+* (Internship) Security Engineer
 
 #### Sep 2016
 [Nomura Research Institue](https://www.nri.com/jp/)
 * Internship
 * Assigned to [NRI Secure technologies](https://www.nri-secure.co.jp/).
 
-
-#### Jun 2014 - Present
-[Gehirn Inc.](https://www.gehirn.co.jp)
 
 
 ### Community
