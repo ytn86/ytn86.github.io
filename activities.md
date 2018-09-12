@@ -67,3 +67,11 @@ title: activities
   * won PSIRT award for finding most effectable vulnerability in the contest
 
 
+### 2018
+
+* [CTF for Beginners](http://2017.seccon.jp/about/beginners.html)
+  * Operation Member
+
+
+* [Security Camp 2016](https://ipa.go.jp/jinzai/camp/2018/zenkoku2018_index.html) in Tokyo
+  * C track tur
