@@ -33,6 +33,7 @@ title: about
 
 #### Jun 2014 - Present
 [Gehirn Inc.](https://www.gehirn.co.jp)
+* (part-time) Security Engineer
 
 ### Aug 2018
 [Mercari Inc](https://about.mercari.com/)
