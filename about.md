@@ -11,9 +11,9 @@ title: about
 * Address
   * Tsukuba, Ibaraki, Japan
 
-### Educations
+### Education
 #### April 2018 - Present
-[Gradute School of Systems and Information Engineering](https://www.sie.tsukuba.ac.jp/english), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
+[Graduate School of Systems and Information Engineering](https://www.sie.tsukuba.ac.jp/english), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
 * Major : Computer Science
 * PA team, [High Performance Computing System labs](https://www.hpcs.cs.tsukuba.ac.jp/)
   * keywords : OpenMP, Accerelators
@@ -51,13 +51,13 @@ title: about
 * [wasamusume](https://wasamusu.me) (a CTF Team)
 
 
-### Lisences
+### Lisence
 
 * [Information Security Specialist Examination](https://www.jitec.ipa.go.jp/1_11seido/sc.html)
 * Driver's License (1st grade)
 
 
-### Loves
+### Love
 
 #### Programing Languages / Frameworks
 
