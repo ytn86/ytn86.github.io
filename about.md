@@ -16,7 +16,7 @@ title: about
 [Graduate School of Systems and Information Engineering](https://www.sie.tsukuba.ac.jp/english), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
 * Major : Computer Science
 * PA team, [High Performance Computing System labs](https://www.hpcs.cs.tsukuba.ac.jp/)
-  * keywords : OpenMP, Accerelators
+  * keywords : Compiler, OpenMP, Accerelators, FPGA
 
 #### April 2014 - March 2018
 [College of Information Science](https://www.coins.tsukuba.ac.jp/en/), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
