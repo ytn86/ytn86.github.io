@@ -73,5 +73,5 @@ title: activities
   * Operation Member
 
 
-* [Security Camp 2016](https://ipa.go.jp/jinzai/camp/2018/zenkoku2018_index.html) in Tokyo
+* [Security Camp 2018](https://ipa.go.jp/jinzai/camp/2018/zenkoku2018_index.html) in Tokyo
   * C track tur
