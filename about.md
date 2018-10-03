@@ -51,7 +51,7 @@ title: about
 * [wasamusume](https://wasamusu.me) (a CTF Team)
 
 
-### Lisence
+### License
 
 * [Information Security Specialist Examination](https://www.jitec.ipa.go.jp/1_11seido/sc.html)
 * Driver's License (1st grade)
