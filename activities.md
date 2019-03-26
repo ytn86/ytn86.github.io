@@ -8,7 +8,7 @@ title: activities
 ## Publishments
 
 ### 2017
-* [セキュリティコンテストのためのCTF問題集](https://www.amazon.co.jp/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AECTF%E5%95%8F%E9%A1%8C%E9%9B%86-%E6%B8%85%E6%B0%B4-%E7%A5%90%E5%A4%AA%E9%83%8E/dp/4839962138)
+* [セキュリティコンテストのためのCTF問題集](https://www.amazon.co.jp/dp/4839962138)
 
 ### 2019
 * [サイバーセキュリティ　レッドチーム実践ガイド](https://www.amazon.co.jp/dp/4839967571/)
