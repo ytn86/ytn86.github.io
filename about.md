@@ -35,7 +35,7 @@ title: about
 [Gehirn Inc.](https://www.gehirn.co.jp)
 * (part-time) Security Engineer
 
-### Aug 2018
+#### Aug 2018
 [Mercari Inc](https://about.mercari.com/)
 * (Internship) Security Engineer
 
