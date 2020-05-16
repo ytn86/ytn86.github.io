@@ -8,11 +8,9 @@ title: about
 ### Information
 * Name
   * Yutaka WATANABE a.k.a ゆったん
-* Address
-  * Tsukuba, Ibaraki, Japan
 
 ### Education
-#### April 2018 - Present
+#### April 2018 - Mar 2020
 [Graduate School of Systems and Information Engineering](https://www.sie.tsukuba.ac.jp/english), [University of Tsukuba](https://www.tsukuba.ac.jp/english/)
 * Major : Computer Science
 * PA team, [High Performance Computing System labs](https://www.hpcs.cs.tsukuba.ac.jp/)
@@ -27,11 +25,11 @@ title: about
 
 ### Experience
 
-#### May 2018 - Present
+#### May 2018 - Mar 2020
 [RIKEN](http://www.riken.jp/en/)
 * Student Trainee
 
-#### Jun 2014 - Present
+#### Jun 2014 - Mar 2020
 [Gehirn Inc.](https://www.gehirn.co.jp)
 * (part-time) Security Engineer
 
@@ -74,11 +72,3 @@ title: about
 * OpenMPI
 
 
-I am interested in part-time job or intern related to:
-* High-Performance Computing
-  * High Level Synthesis
-  * Distributed, Parallel Computing
-* Web Application Development
-  * Backend
-* Computer Security
- 
