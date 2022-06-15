@@ -25,6 +25,10 @@ title: about
 
 ### Experience
 
+#### Apr 2020 - 
+Ierae Security Inc.
+* Security Engineer
+
 #### May 2018 - Mar 2020
 [RIKEN](http://www.riken.jp/en/)
 * Student Trainee

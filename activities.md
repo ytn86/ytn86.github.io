@@ -13,6 +13,10 @@ title: activities
 ### 2019
 * [サイバーセキュリティ　レッドチーム実践ガイド](https://www.amazon.co.jp/dp/4839967571/)
 
+### 2021
+* [詳解セキュリティコンテスト](https://book.mynavi.jp/ec/products/detail/id=122750)
+
+
 ## Events
 
 ### 2012
