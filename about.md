@@ -27,7 +27,7 @@ title: about
 
 #### Apr 2020 - 
 Ierae Security Inc.
-* Security Engineer
+* (Full-time) Security Engineer
 
 #### May 2018 - Mar 2020
 [RIKEN](http://www.riken.jp/en/)
@@ -35,7 +35,7 @@ Ierae Security Inc.
 
 #### Jun 2014 - Mar 2020
 [Gehirn Inc.](https://www.gehirn.co.jp)
-* (part-time) Security Engineer
+* (Part-time) Security Engineer
 
 #### Feb 2019 - July 2019
 [Mercari Inc](https://about.mercari.com/)
